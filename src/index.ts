@@ -1,0 +1,5 @@
+export { Feature as FeatureEntity } from './feature/feature.entity'
+export { User as UserEntity } from './User/user.entity'
+export { FeatureUser as FeatureUserEntity } from './feature-user/feature-user.entity'
+export { Feature } from './feature/feature.service'
+export { connect } from './connection'

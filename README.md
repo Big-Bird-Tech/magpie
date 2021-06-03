@@ -1,0 +1,2 @@
+# Magpie
+> Feature flags package
