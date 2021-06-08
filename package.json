@@ -24,7 +24,7 @@
     "database:fresh": "npm run database:drop && npm run database:migrate"
   },
   "dependencies": {
-    "@bbt/bowerbird": "0.0.4",
+    "@bbt/bowerbird": "0.1.0",
     "@types/uuid": "8.3.0",
     "knex": "0.95.4",
     "pg": "8.5.1",
@@ -48,7 +48,7 @@
     "ts-loader": "8.0.18",
     "ts-node": "9.1.1",
     "tsconfig-paths": "3.9.0",
-    "typescript": "4.2.3"
+    "typescript": "4.3.2"
   },
   "jest": {
     "moduleFileExtensions": [
